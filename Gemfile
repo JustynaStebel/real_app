@@ -59,3 +59,4 @@ group :production do
   gem 'unicorn',        '4.8.3'
 end
 
+gem 'pry'
